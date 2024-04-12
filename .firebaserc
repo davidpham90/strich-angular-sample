@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "strich-scanner",
+    "test": "strich-scanner"
+  },
+  "targets": {},
+  "etags": {}
+}
